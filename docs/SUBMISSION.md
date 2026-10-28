@@ -50,7 +50,7 @@ The PDF's sample README describes SharedPreferences. This implementation uses SQ
 - [x] Error/Retry state captured, with offline-simulation method disclosed.
 - [x] Four correctly named screenshot files and README image links.
 - [x] Code organization, API, persistence, testing and run instructions documented.
-- [ ] Public GitHub push and remote README verification: final publication result recorded by the delivery message.
+- [x] Public GitHub push succeeded. The anonymous repository page and all four image URLs returned HTTP 200; the rendered README contains all four screenshot references.
 - [ ] Group B form submission: not submitted by this session.
 
 The PDF also requires students to explain their code. The README's concepts-to-files table and `ASSIGNMENT.md` provide a study map; neither claims that code assistance was not used.
