@@ -1,0 +1,57 @@
+Mobile Programming: Session 5 Assignment
+Submission
+Submit your mini project as a GitHub repository. It now remembers its data when the app closes
+(Part 2) and shows one live thing from an API. Its README shows screenshots of what you did.
+
+1. Take your screenshots
+Run your mini project on the emulator or your phone and take these four screenshots. On the
+emulator, click the camera icon in the Running Devices toolbar. On a phone, press power and
+volume down together.
+1. before.png : your app with a few things you added or changed.
+2. after.png : the same screen after you stopped the app and ran it again: everything is still
+   there.
+3. api.png : the live data your app gets from an API.
+4. no-internet.png : switch Airplane mode on and open the API part of your app: the error
+   message and the Retry button.
+
+2. Add them to your README
+In your project folder, create a folder named screenshots and put the four images in it, with
+exactly the names above. Then open README.md , delete what is there, and write your own, like
+this:
+
+  # (Your mini project name)
+
+  One sentence about your app. My data is now saved on the phone with
+  shared_preferences,
+  so nothing is lost when the app closes, and it shows (what it gets) from (which
+  API).
+
+  ## Screenshots
+  ![Before closing](screenshots/before.png)
+  ![After running again](screenshots/after.png)
+  ![Live data from an API](screenshots/api.png)
+  ![No internet](screenshots/no-internet.png)
+
+
+
+3. Push to GitHub
+1. Push your whole mini project to a public repository.
+2. Open the repository in your browser and check that the four screenshots appear in the
+   README. If one is missing, check that its file name matches exactly: capital letters count.
+
+4. Submit the links
+Use the form for your group only. Fill in your full name, student ID and the link to your repository,
+for example https://github.com/your-username/bus_booking .
+  Group A (Monday group): https://forms.gle/28QWaJRekvsnga3B6
+  Deadline: Tuesday 27 October, 11:59 PM
+
+  Group B (Tuesday group): https://forms.gle/w68h6dtKp31bemRj7
+  Deadline: Wednesday 28 October, 11:59 PM
+
+
+Each form closes at its deadline. You can edit your answer until then.
+
+Rules
+1. Your repository must be public, or it cannot be marked.
+2. Type your own code. You must be able to explain any line of it.
+

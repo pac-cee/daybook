@@ -1,0 +1,45 @@
+PASS: JSON handles 25
+PASS: Weather JSON round trip
+PASS: JSON handles 25.8
+PASS: Weather JSON round trip
+PASS: Malformed readings rejected
+PASS: WMO and unknown codes
+PASS: Huye coordinates
+PASS: Explicit timezone
+PASS: HTTP JSON response
+PASS: HTTP status 503 invalid response rejected
+PASS: HTTP status 200 invalid response rejected
+PASS: Slow request times out
+PASS: First-run samples
+PASS: Edit survives database reopen
+PASS: Completion survives database reopen
+PASS: Delete survives database reopen
+PASS: Notes and priority survive reopen
+PASS: Due date survives reopen
+PASS: Undo available after restart
+PASS: Undo survives reopen
+PASS: Per-city caches survive reopen
+PASS: Unvisited city has no fabricated cache
+PASS: Cached offline state
+PASS: Uncached offline error
+PASS: Retry recovers
+PASS: City saved
+PASS: City restored before fetching
+PASS: Old response cannot overwrite selected city
+PASS: Search covers notes and completed filter
+PASS: All tasks excludes completed
+PASS: weather renders without Flutter errors
+PASS: weather-details renders without Flutter errors
+PASS: daybook renders without Flutter errors
+PASS: Real pointer taps create task through form
+PASS: Real pointer taps edit task through form
+PASS: task-editor renders without Flutter errors
+PASS: weather-offline renders without Flutter errors
+PASS: Cached forecast does not claim Now or Today
+PASS: weather-error renders without Flutter errors
+PASS: weather-large-text renders without Flutter errors
+PASS: daybook-large-text renders without Flutter errors
+PASS: Empty list stays empty; samples not reseeded
+PASS: daybook-empty renders without Flutter errors
+PASS: Both app icon sets generated
+VERIFIED: 44 checks passed. Screenshots use deterministic test data.
